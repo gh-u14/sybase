@@ -1,0 +1,12 @@
+<metadata>
+<groupId>jdbc.sybase</groupId>
+<artifactId>jconn4</artifactId>
+<versioning>
+<latest>16.0</latest>
+<release>16.0</release>
+<versions>
+<version>16.0</version>
+</versions>
+<lastUpdated>20230317201903</lastUpdated>
+</versioning>
+</metadata>
